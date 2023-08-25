@@ -1,5 +1,5 @@
 ---
-title: Mi primer Website en Github
+title: Mi primer 
 author: Dani
 date: 2023-07-05 18:33:00 +0800
 categories: [Blogging]
@@ -13,15 +13,14 @@ mermaid: true
   #alt: Dani ❤
 ---
 
-<h1 class="mt-5">Mi primer Website en Github</h1>
+<h1 class="mt-5"></h1>
 
 > Te dejo un paso a paso de como poder crear tu primera pagina web en Github.
 
 ### Sigue los siguientes pasos
 
-1. Crea una cuenta en Github (github.com).
-2. Busca en google tu tema favorito, te dejo unos ejemplos (https://github.com/topics/blog-template).
-3. Cuando tengas elegido tu tema favorito debes de realizar un "fork" en el repositorio, con esto igualmente apoyas al creador del contenido.
+1. 
+
 
 
 
