@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Smile and never give up ❤
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://danitsu.github.io"
+url: "/danitsu.github.io"
 
 github:
   username: Danitsu # change to your github username
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Dani 
+  name: Danitsu
   email: daalarconma@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
