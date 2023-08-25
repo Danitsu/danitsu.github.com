@@ -1,9 +1,9 @@
 ---
-title: Mi primer 
+title: Mi primer blog
 author: Dani
 date: 2023-07-05 18:33:00 +0800
 categories: [Blogging]
-tags: [github]
+tags: [blog]
 pin: true
 math: true
 mermaid: true
@@ -15,16 +15,13 @@ mermaid: true
 
 <h1 class="mt-5"></h1>
 
-> Te dejo un paso a paso de como poder crear tu primera pagina web en Github.
+> Bienvenido a mi primera pagina web en Github.
 
-### Sigue los siguientes pasos
-
-1. 
-
-
-
+### La idea de esta pagina es para poder compartir un poco a lo que me dedico dia a dia.
 
 ```
 Under construction
 
 ```
+
+https://www.youtube.com/watch?v=LtJ4PeVtSas&list=RDLtJ4PeVtSas&start_radio=1
