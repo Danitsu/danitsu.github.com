@@ -8,7 +8,6 @@ on:
       - ".github/**"
       - "!.github/workflows/ci.yml"
       - ".gitignore"
-      - "docs/**"
       - "README.md"
       - "LICENSE"
   pull_request:
